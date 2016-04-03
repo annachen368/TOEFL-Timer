@@ -1,3 +1,3 @@
 # TOEFL-Timer
 Android: use CountDownTimer and MediaPlayer
-<img src="http://i.imgur.com/PpOmoxI.gifv" />
+<img src="http://imgur.com/PpOmoxI" />
